@@ -34,4 +34,7 @@ public class CatalogItem {
     public void setRating(int rating) {
         this.rating = rating;
     }
+
+    public String getMovieId() { return getMovieId();
+    }
 }
